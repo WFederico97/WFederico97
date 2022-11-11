@@ -1,8 +1,11 @@
 <img src='https://res.cloudinary.com/dwyqyqadz/image/upload/v1662607450/Images/Banner-de-LinkedIn-FW_pmovae.png'  />
 <h1 align="center">Hi 👋, I'm Federico</h1>
 <h3 align="center">an Argentinian trainee Front End Developer 🔵⚪🟡⚪🔵</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wfederico97" alt="wfederico97" /></a> </p>
+<div>
+  <p align="center"> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wfederico97" alt="wfederico97" /></a> 
+  </p>
+</div>
 
 - 👨‍💻 All of my projects are available at [https://github.com/WFederico97](https://github.com/WFederico97)
 
