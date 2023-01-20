@@ -1,6 +1,6 @@
 <img src='https://res.cloudinary.com/dwyqyqadz/image/upload/v1662607450/Images/Banner-de-LinkedIn-FW_pmovae.png'  />
 <h1 align="center">Hi 👋, I'm Federico</h1>
-<h3 align="center">an Argentinian trainee Front End Developer 🔵⚪🟡⚪🔵</h3>
+<h3 align="center">an Argentinian  Front End Developer 🔵⚪🟡⚪🔵 ⭐⭐⭐</h3>
 <div>
   <p align="center"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wfederico97" alt="wfederico97" /></a> 
