@@ -16,6 +16,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/federico-wuthrich-668633164/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/federico-wuthrich-668633164/" height="30" width="40" /></a>
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="federico-wuthrich" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ar.linkedin.com/in/federico-wuthrich?trk=profile-badge">Federico Wuthrich</a></div>
+              
+              
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -24,3 +27,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wfederico97&show_icons=true&locale=en&layout=compact" alt="wfederico97" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wfederico97&show_icons=true&locale=en" alt="wfederico97" /></p>
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
