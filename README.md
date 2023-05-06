@@ -1,4 +1,5 @@
-<img src='https://res.cloudinary.com/dwyqyqadz/image/upload/v1662607450/Images/Banner-de-LinkedIn-FW_pmovae.png'  />
+<img src='https://res.cloudinary.com/dpeujcpmq/image/upload/v1683399351/Banner_de_LinkedIn_Sencillo_Tecnolog%C3%ADa_u3tr5m.png'  />
+
 <h1 align="center">Hi 👋, I'm Federico</h1>
 <h3 align="center">an Argentinian  Front End Developer 🔵⚪🟡⚪🔵 ⭐⭐⭐</h3>
 <div>
