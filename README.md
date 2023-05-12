@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **wuthrich09@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/federico-wuthrich-668633164/](https://www.linkedin.com/in/federico-wuthrich-668633164/)
+- 📄 Know about my experiences [https://wfederico.vercel.app/](https://www.linkedin.com/in/federico-wuthrich-668633164/)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
