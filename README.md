@@ -2,7 +2,7 @@
 <img src='https://res.cloudinary.com/dpeujcpmq/image/upload/v1683399351/Banner_de_LinkedIn_Sencillo_Tecnolog%C3%ADa_u3tr5m.png'  />
 
 <h1 align="center">Hi 👋, I'm Federico</h1>
-<h3 align="center">an Argentinian  Front End Developer 🔵⚪🟡⚪🔵 ⭐⭐⭐</h3>
+<h3 align="center">an Argentinian  Full Stack Developer 🔵⚪🟡⚪🔵 ⭐⭐⭐</h3>
 <div>
   <p align="center"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wfederico97" alt="wfederico97" /></a> 
