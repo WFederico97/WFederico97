@@ -14,93 +14,95 @@
 
 ## 🇬🇧 English
 
-**Full Stack Developer based in Córdoba, Argentina**. Currently studying Programming at UTN-FR Córdoba. Passionate about technology, sports, and gastronomy.
+**Full Stack Developer based in Córdoba, Argentina**. Currently pursuing a University Technical Degree in Programming at UTN-FRC. Passionate about technology, sports, and gastronomy. Experienced in building scalable web applications using Python, PHP, and React ecosystems.
 
 ### 🔑 Key Experience
-- Backend development in Python (FastAPI) & .NET (C#)
-- Frontend with React, Redux, Next.js & Material UI
-- Drupal 8 & 10 CMS
-- Relational Databases: PostgreSQL, SQL Server
-- Agile methodologies: Scrum & Kanban
+- Backend development & Process Automation (.NET, SQL Server, Bonita BPM)
+- Enterprise Integration (WSO2)
+- Frontend with React.js, Redux, Next.js & Material UI
+- CMS & PHP Ecosystem (Drupal 8 & 10, Symfony)
+- High-performance RESTful APIs (Python, FastAPI, Django)
 
 ### 🛠️ Technical Skills
 
-- **Backend & Frameworks:** Python (FastAPI), C# (.NET, Entity Framework), PHP (Symfony), Java
-- **Frontend:** JavaScript, TypeScript, React (Redux, Material UI), Next.js
-- **Databases:** SQL Server, PostgreSQL, MySQL
-- **CMS:** Drupal 8 & 10
-- **Containers:** Docker
-- **APIs:** RESTful, OOP, Design Patterns
+- **Backend:** Python (FastAPI, Django), .NET (C#), PHP (Symfony), Java, REST APIs
+- **Integration & BPM:** WSO2, Bonita BPM
+- **Frontend:** React.js, Redux, Next.js, TypeScript, Material UI, JavaScript
+- **Databases:** PostgreSQL, SQL Server, MySQL
+- **Tools & DevOps:** Docker, Git, Jira, Postman
+- **Methodologies:** Scrum, Kanban
 
 ### 💼 Work Experience
 
-**Fullstack Developer | Seabury Solutions**  
-_Apr 2024 - Present_  
-- Member of the “eAuthority” team, developing a platform for managing licenses, certificates, and reports for civil aviation authorities. This digital solution streamlines processes and boosts operational efficiency.  
-- **Stack:** Drupal 8 & 10, PHP, Symfony, JavaScript, AJAX, JQuery, PostgreSQL  
-- **Tools:** Kanban (Jira), Confluence, Gitlab, Git, Postman
+**Full Stack Developer | Seabury Solutions** _Apr 2024 - Present_  
+- Designed and developed robust backend services using .NET and SQL Server, integrating complex business workflows through the Bonita BPM engine.
+- Implemented enterprise integration solutions using WSO2 to connect diverse services.
+- Maintained and optimized backend solutions using PHP (Symfony) within Drupal 8 & 10 environments.
+- **Stack:** .NET, SQL Server, WSO2, Bonita BPM, Drupal 8/10, PHP, Symfony, Docker.
+- **Tools:** Kanban (Jira), Confluence, Gitlab, Git.
 
-**Fullstack Developer | VATES SA (now EPAM) – Turbo Lab**  
-_Mar 2023 – Apr 2024_  
-- Developed a web app to replace Excel sheets for Quality Index (IPC) calculation, digitalizing sales and after-sales processes to improve organizational efficiency.  
-- **Stack:** React Js, Redux, Next.js, Typescript, Python (FastAPI), PostgreSQL  
-- **Tools:** Scrum (Jira), Gitlab, Git
+**Full Stack Developer | VATES SA (currently EPAM) – Turbo Lab** _Mar 2023 – Apr 2024_  
+- Spearheaded the development of a modern web application to replace legacy Excel-based workflows for the "Weighted Quality Index" (IPC) calculation.
+- Designed and implemented a high-performance RESTful API using Python and FastAPI.
+- Built a responsive frontend architecture using React, Redux, and Next.js with TypeScript.
+- **Stack:** React.js, Redux, Next.js, TypeScript, Python (FastAPI), PostgreSQL.
+- **Tools:** Scrum (Jira), Gitlab, Git.
 
 ### 🎓 Education
-- **UTN – Córdoba:** Programming Technician (Feb 2024 – Present)
+- **Universidad Tecnológica Nacional (UTN) - Córdoba:** University Technical Degree in Programming (Feb 2024 – Present)
 
-### 🌟 Skills
-- **Frontend:** React Js, Redux, Next Js, Typescript
-- **Backend:** .NET, C#, Python, PHP, REST API, OOP, Design Patterns
-- **Databases:** PostgreSQL, SQLServer, MySQL
-- **Agile:** SCRUM, Kanban
-- **Languages:** English (B1), Spanish (Native)
+### 🌟 Skills Overview
+- **Frontend:** React.js, Redux, Next.js, TypeScript
+- **Backend:** .NET, C#, Python, PHP, REST APIs
+- **Databases:** PostgreSQL, SQL Server, MySQL
+- **Languages:** Spanish (Native), English (B2 - Upper Intermediate)
 
 ---
 
 ## 🇪🇸 Español
 
-**Desarrollador Full Stack radicado en Córdoba (Argentina)**. Estudiante de Tecnicatura Universitaria en Programación – UTN-FR Córdoba. Apasionado por la tecnología, el deporte y la gastronomía.
+**Desarrollador Full Stack radicado en Córdoba (Argentina)**. Estudiante de Tecnicatura Universitaria en Programación – UTN-FRC. Apasionado por la tecnología, el deporte y la gastronomía. Con experiencia en la creación de aplicaciones web escalables utilizando los ecosistemas de Python, PHP y React.
 
 ### 🔑 Experiencia Clave
-- Desarrollo backend en Python (FastAPI) y .NET (C#)
-- Frontend con React, Redux, Next.js y Material UI
-- CMS Drupal 8 & 10
-- Bases de datos relacionales: PostgreSQL, SQL Server
-- Metodologías ágiles: Scrum y Kanban
+- Desarrollo Backend y Automatización de Procesos (.NET, SQL Server, Bonita BPM)
+- Integración Empresarial (WSO2)
+- Frontend con React.js, Redux, Next.js y Material UI
+- Ecosistema CMS y PHP (Drupal 8 & 10, Symfony)
+- APIs RESTful de alto rendimiento (Python, FastAPI, Django)
 
 ### 🛠️ Conocimientos Técnicos
 
-- **Backend y Frameworks:** Python (FastAPI), C# (.NET, Entity Framework), PHP (Symfony), Java
-- **Frontend:** JavaScript, TypeScript, React (Redux, Material UI), Next.js
-- **Bases de Datos:** SQL Server, PostgreSQL, MySQL
-- **CMS:** Drupal 8 & 10
-- **Contenedores:** Docker
-- **APIs:** RESTful, POO, Patrones de Diseño
+- **Backend:** Python (FastAPI, Django), .NET (C#), PHP (Symfony), Java, APIs REST
+- **Integración y BPM:** WSO2, Bonita BPM
+- **Frontend:** React.js, Redux, Next.js, TypeScript, Material UI, JavaScript
+- **Bases de Datos:** PostgreSQL, SQL Server, MySQL
+- **Herramientas y DevOps:** Docker, Git, Jira, Postman
+- **Metodologías:** Scrum, Kanban
 
 ### 💼 Experiencia
 
-**Desarrollador Fullstack | Seabury Solutions**  
-_Abril 2024 - Actualidad_  
-- Integrante del equipo “eAuthority”, colaborando en el desarrollo de una plataforma para la gestión de licencias, certificados y reportes para autoridades de aviación civil. Esta solución digitaliza trámites y mejora la eficiencia operativa.  
-- **Stack:** Drupal 8 & 10, PHP, Symfony, Javascript, AJAX, JQuery, PostgreSQL  
-- **Herramientas:** Kanban (Jira), Confluence, Gitlab, Git, Postman
+**Desarrollador Full Stack | Seabury Solutions** _Abril 2024 - Actualidad_  
+- Diseño y desarrollo de servicios backend robustos utilizando .NET y SQL Server, integrando flujos de trabajo complejos a través del motor Bonita BPM.
+- Implementación de soluciones de integración utilizando WSO2 para conectar diversos servicios.
+- Mantenimiento y optimización de soluciones backend con PHP (Symfony) en entornos Drupal 8 & 10.
+- **Stack:** .NET, SQL Server, WSO2, Bonita BPM, Drupal 8/10, PHP, Symfony, Docker.
+- **Herramientas:** Kanban (Jira), Confluence, Gitlab, Git.
 
-**Desarrollador Fullstack | VATES SA (hoy EPAM) – Turbo Lab**  
-_Marzo 2023 – Abril 2024_  
-- Desarrollo de aplicación web que reemplazó hojas de Excel para el cálculo del Índice Ponderado de Calidad (IPC), digitalizando procesos de ventas y post-venta para aumentar la eficiencia organizacional.  
-- **Stack:** React Js, Redux, Next Js, Typescript, Python (FastAPI), PostgreSQL  
-- **Herramientas:** Scrum (Jira), Gitlab, Git
+**Desarrollador Full Stack | VATES SA (actualmente EPAM) – Turbo Lab** _Marzo 2023 – Abril 2024_  
+- Lideré el desarrollo de una aplicación web moderna para reemplazar flujos de trabajo basados en Excel para el cálculo del Índice Ponderado de Calidad (IPC).
+- Diseño e implementación de una API RESTful de alto rendimiento utilizando Python y FastAPI.
+- Construcción de una arquitectura frontend responsiva utilizando React, Redux y Next.js con TypeScript.
+- **Stack:** React.js, Redux, Next.js, TypeScript, Python (FastAPI), PostgreSQL.
+- **Herramientas:** Scrum (Jira), Gitlab, Git.
 
 ### 🎓 Educación
-- **UTN – Córdoba:** Tecnicatura Universitaria en Programación (Febrero 2024 – Actualidad)
+- **Universidad Tecnológica Nacional (UTN) - Córdoba:** Tecnicatura Universitaria en Programación (Febrero 2024 – Actualidad)
 
-### 🌟 Skills
-- **Frontend:** React Js, Redux, Next Js, Typescript
-- **Backend:** .NET, C#, Python, PHP, API Rest, POO, Patrones de Diseño
-- **Bases de Datos:** PostgreSQL, SQLServer, MySQL
-- **Metodologías Ágiles:** SCRUM, Kanban
-- **Idiomas:** Inglés (B1), Español (Nativo)
+### 🌟 Resumen de Skills
+- **Frontend:** React.js, Redux, Next.js, TypeScript
+- **Backend:** .NET, C#, Python, PHP, APIs REST
+- **Bases de Datos:** PostgreSQL, SQL Server, MySQL
+- **Idiomas:** Español (Nativo), Inglés (B2 - Intermedio Alto)
 
 ---
 
